@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F5D0DE26-1BE9-49BD-9169-3B1C335F542A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hello</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
+		<string>https://github.com/danallan/swift-kirkland.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hello.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danallan/swift-kirkland.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>587C91279B4E1D578DD8EB5019190B282AF2ECC5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>587C91279B4E1D578DD8EB5019190B282AF2ECC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-kirkland</string>
+		</dict>
+	</array>
+</dict>
+</plist>
