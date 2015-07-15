@@ -5,13 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>F5D0DE26-1BE9-49BD-9169-3B1C335F542A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Hello</string>
+=======
+	<string>59EDB661-1261-4D85-9BB2-BD17C2F06380</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+>>>>>>> origin/master
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
 		<string>https://github.com/danallan/swift-kirkland.git</string>
+<<<<<<< HEAD
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Hello.playground</string>
@@ -19,6 +26,19 @@
 	<dict>
 		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
 		<string>..</string>
+=======
+		<key>74520A40BD81CDE856F210101CCCA1022EEE7A11</key>
+		<string>https://github.com/Achau9/Game_of_Fifteen.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hello.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
+		<string>../..</string>
+		<key>74520A40BD81CDE856F210101CCCA1022EEE7A11</key>
+		<string>../../..</string>
+>>>>>>> origin/master
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/danallan/swift-kirkland.git</string>
@@ -32,6 +52,17 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
+=======
+			<string>74520A40BD81CDE856F210101CCCA1022EEE7A11</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+>>>>>>> origin/master
 			<string>587C91279B4E1D578DD8EB5019190B282AF2ECC5</string>
 			<key>IDESourceControlWCCName</key>
 			<string>swift-kirkland</string>
