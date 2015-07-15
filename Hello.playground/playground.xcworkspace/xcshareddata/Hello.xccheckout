@@ -5,6 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 	<string>F5D0DE26-1BE9-49BD-9169-3B1C335F542A</string>
 	<key>IDESourceControlProjectName</key>
@@ -14,10 +15,32 @@
 	<key>IDESourceControlProjectName</key>
 	<string>playground</string>
 >>>>>>> origin/master
+=======
+<<<<<<< Updated upstream
+	<string>59EDB661-1261-4D85-9BB2-BD17C2F06380</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+=======
+<<<<<<< HEAD
+	<string>BEB13A32-7D2F-4D38-B22A-FD9FD724D06A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hello</string>
+=======
+	<string>59EDB661-1261-4D85-9BB2-BD17C2F06380</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
 		<string>https://github.com/danallan/swift-kirkland.git</string>
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 	</dict>
 	<key>IDESourceControlProjectPath</key>
@@ -27,6 +50,10 @@
 		<key>587C91279B4E1D578DD8EB5019190B282AF2ECC5</key>
 		<string>..</string>
 =======
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 		<key>74520A40BD81CDE856F210101CCCA1022EEE7A11</key>
 		<string>https://github.com/Achau9/Game_of_Fifteen.git</string>
 	</dict>
@@ -38,7 +65,14 @@
 		<string>../..</string>
 		<key>74520A40BD81CDE856F210101CCCA1022EEE7A11</key>
 		<string>../../..</string>
+<<<<<<< Updated upstream
 >>>>>>> origin/master
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/danallan/swift-kirkland.git</string>
@@ -52,8 +86,16 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
+=======
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 			<string>74520A40BD81CDE856F210101CCCA1022EEE7A11</string>
 			<key>IDESourceControlWCCName</key>
 			<string></string>
@@ -62,7 +104,14 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< Updated upstream
 >>>>>>> origin/master
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 			<string>587C91279B4E1D578DD8EB5019190B282AF2ECC5</string>
 			<key>IDESourceControlWCCName</key>
 			<string>swift-kirkland</string>
